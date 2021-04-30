@@ -7,4 +7,4 @@ Types: Greedy, Ndepth, and Ndepth with alpha beta pruning.
 
 
 
-Currently default is Ndapth with allpha beta pruning. There is comments inside on how to switch the gamestyles if you would like to see all three.
+Currently default is Ndepth with alpha beta pruning. There is comments inside on how to switch the gamestyles if you would like to see all three.
