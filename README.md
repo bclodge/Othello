@@ -1,7 +1,7 @@
 # Othello
 A.I based Othello game.
 
-YOu can have the A.I players play with several different types of "mindsets" or types of moves.
+You can have the A.I players play with several different types of "mindsets" or types of moves.
 
 Types: Greedy, Ndepth, and Ndepth with alpha beta pruning.
 
